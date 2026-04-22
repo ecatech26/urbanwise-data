@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bucuresti_GradinidePloaie",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Name": "Grădină de Ploaie - Parcul Tineretului ", "description_clean": "Sistem natural de colectare și filtrare a apei pluviale, care reduce riscul de inundații și contribuie la răcirea microclimatului urban.\n", "image_url": null, "status": "in_construction", "Type": "rain_garden", "AnConstructie": "2026", "Finantare": "public", "DescriereProiect": "Proiect implementat de Asociația Parcul Natural București în parteneriat cu Administrația Lacuri, Parcuri și Agrement București (ALPAB),finanțat prin programul Platforma de mediu pentru București, inițiat de Fundația Comunitară București și ING Bank România" }, "geometry": { "type": "Point", "coordinates": [ 26.105475485845819, 44.408161003572502 ] } }
+]
+}

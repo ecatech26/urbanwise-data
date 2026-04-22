@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Bucuresti_RefugiiClimatice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Name": "Refugiu Climatic - Asociatia Studentilor - Tei ", "description_clean": "Spațiu umbrit cu vegetație și acces la apă, destinat protecției în perioadele de caniculă.", "image_url": null, "status": "in_construction", "Type": "climate_shelter", "AnConstructie": "2026", "Finantare": "privata", "DescriereProiect": "Proiect finantat de Orange" }, "geometry": { "type": "Point", "coordinates": [ 26.120342759333575, 44.46184669301703 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Name": "Refugiu Climatic - OpenCoolSpot", "description_clean": "Spațiu cu acces la apă și umbră, destinat protecției în perioadele de caniculă.", "image_url": null, "status": "in_construction", "Type": "climate_shelter", "AnConstructie": "2026", "Finantare": "public", "DescriereProiect": "Proiect implementat de Platforma de Mediu, pilot OPEN COOLSPOT" }, "geometry": { "type": "Point", "coordinates": [ 26.121086347457503, 44.461962878661389 ] } }
+]
+}
