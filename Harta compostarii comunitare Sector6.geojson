@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Harta compostarii comunitare Sector6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Stația compostare Apusului", "description": "Localizare: Str. Ghirlandei nr. 5, bl. 46, scara 3, în gradina din spatele scării 3, sector 6, București.<br><br>Chat WhatsApp:<br>https:\/\/chat.whatsapp.com\/KOPljtFfUsEGAOl9SPRshG<br><br>Referent: Nadia Crânganu", "xcoord": 26.0192558, "ycoord": 44.4380198 }, "geometry": { "type": "Point", "coordinates": [ 26.0192558, 44.4380198, 0.0 ] } }
+]
+}

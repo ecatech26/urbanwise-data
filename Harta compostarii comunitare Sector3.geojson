@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Harta compostarii comunitare Sector3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Gradina Siriului", "description": "Drumul Gura Siriului 124", "xcoord": 26.1904511, "ycoord": 44.4197136 }, "geometry": { "type": "Point", "coordinates": [ 26.1904511, 44.4197136, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Stația compostare Gheorghe Petrașcu", "description": "Localizare: în spatele blocului, lângă parcare, pe str. Gheorghe Petrașcu nr. 51, bl. PM 54, sc. 2, sector 3, București.<br><br>Chat WhatsApp:<br>https:\/\/chat.whatsapp.com\/LkQMkztLqsi4VZZsiRwI4W<br><br>Referent: Oana Marin", "xcoord": 26.1458132, "ycoord": 44.4301366 }, "geometry": { "type": "Point", "coordinates": [ 26.1458132, 44.4301366, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Stația compostare Foișorului", "description": "Localizare: str. Foișorului 6, în spatele blocului F2C, sector 3, București<br><br>Chat WhatsApp:<br>https:\/\/chat.whatsapp.com\/J8b5jLAjf5q66CkXh74flf<br><br>Referent: Ovidiu Dinișor", "xcoord": 26.1222523, "ycoord": 44.4219238 }, "geometry": { "type": "Point", "coordinates": [ 26.1222523, 44.4219238, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Stație compostare Lugojana", "description": "Localizare: str. Lugojana 9, lângă punctul trafo, sector 3, București<br><br>Referent: Andrei Gurlui", "xcoord": 26.1377989, "ycoord": 44.4124844 }, "geometry": { "type": "Point", "coordinates": [ 26.1377989, 44.4124844, 0.0 ] } }
+]
+}

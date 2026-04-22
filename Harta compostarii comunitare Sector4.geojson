@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Harta compostarii comunitare Sector4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Stația compostare Livada", "description": "Localizare: în incinta Casei Memoriale Tudor Arghezi, în livada din spatele muzeului; Str. Mărțișor nr. 26, sector 4, București.<br><br>Chat WhatsApp:<br>https:\/\/chat.whatsapp.com\/EnkimzIa3awDkelSbLLWy7<br><br>Referent: Gabriela Iordan", "xcoord": 26.1184484, "ycoord": 44.3983571 }, "geometry": { "type": "Point", "coordinates": [ 26.1184484, 44.3983571, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Centrul Rezidențial \"Sfânta Teodora\"", "description": "Localizare: Strada Caporal Marin Grigore 42-44, București 077160 <br><br>Referent: Mariana Marin<br><br>Află cum poți intra în grup: <br> https:\/\/chat.whatsapp.com\/J1yluB6GJ3h46mO6p9lDKA", "xcoord": 26.144593, "ycoord": 44.3798319 }, "geometry": { "type": "Point", "coordinates": [ 26.144593, 44.3798319, 0.0 ] } }
+]
+}
